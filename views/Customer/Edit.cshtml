@@ -1,0 +1,82 @@
+@model AdvancedAjax.Models.Customer
+
+@{
+    ViewData["Title"] = "Edit Customer";
+}
+
+<h1>Edit Customer</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="PhotoUrl" />
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EmailId" class="control-label"></label>
+                <input asp-for="EmailId" class="form-control" />
+                <span asp-validation-for="EmailId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CountryId" class="control-label">Country</label>
+                <select asp-for="CountryId" class="form-control" asp-items="ViewBag.Countries"></select>
+                <span asp-validation-for="CountryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CityId" class="control-label">City</label>
+                <select asp-for="CityId" class="form-control" asp-items="ViewBag.Cities"></select>
+                <span asp-validation-for="CityId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProfilePhoto" class="control-label">Profile Photo</label>
+                @if (!string.IsNullOrEmpty(Model.PhotoUrl))
+                {
+                    <div class="mb-2">
+                        <img src="@Url.Content($"~/Images/{Model.PhotoUrl}")" alt="Current Photo" style="max-width:150px;max-height:150px;" />
+                    </div>
+                }
+                <input asp-for="ProfilePhoto" type="file" class="form-control" />
+                <span asp-validation-for="ProfilePhoto" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(function () {
+            $('#CountryId').change(function () {
+                var countryId = $(this).val();
+                $('#CityId').empty();
+                if (countryId) {
+                    $.getJSON('/City/GetCitiesByCountry', { countryId: countryId }, function (data) {
+                        $('#CityId').empty();
+                        $('#CityId').append($('<option>').text('----Select City----').attr('value', ''));
+                        $.each(data, function (i, city) {
+                            $('#CityId').append($('<option>').text(city.name).attr('value', city.id));
+                        });
+                    });
+                } else {
+                    $('#CityId').empty();
+                    $('#CityId').append($('<option>').text('----Select City----').attr('value', ''));
+                }
+            });
+        });
+    </script>
+} 

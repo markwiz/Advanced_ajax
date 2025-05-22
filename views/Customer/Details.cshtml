@@ -1,0 +1,34 @@
+@model AdvancedAjax.Models.Customer
+
+@{
+    ViewData["Title"] = "Customer Details";
+}
+
+<h1>Customer Details</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.FirstName)</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.FirstName)</dd>
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.LastName)</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.LastName)</dd>
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.EmailId)</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.EmailId)</dd>
+        <dt class="col-sm-3">City</dt>
+        <dd class="col-sm-9">@Model.City?.Name</dd>
+        <dt class="col-sm-3">Country</dt>
+        <dd class="col-sm-9">@Model.City?.Country?.Name</dd>
+        <dt class="col-sm-3">Photo</dt>
+        <dd class="col-sm-9">
+            @if (!string.IsNullOrEmpty(Model.PhotoUrl))
+            {
+                <img src="@Url.Content($"~/Images/{Model.PhotoUrl}")" alt="Customer Photo" style="max-width:150px;max-height:150px;" />
+            }
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div> 
