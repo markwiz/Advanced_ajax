@@ -9,111 +9,111 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AdvancedAjax
 build_property.RootNamespace = AdvancedAjax
-build_property.ProjectDir = /Users/neuropunk/Desktop/Ajax_Crud/
+build_property.ProjectDir = /Users/neuropunk/Desktop/Advanced_ajax/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/neuropunk/Desktop/Ajax_Crud
+build_property.MSBuildProjectDirectory = /Users/neuropunk/Desktop/Advanced_ajax
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/City/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9DcmVhdGUuY3NodG1s
+[/Users/neuropunk/Desktop/Advanced_ajax/views/City/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2l0eS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/City/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9EZWxldGUuY3NodG1s
+[/Users/neuropunk/Desktop/Advanced_ajax/views/City/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2l0eS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/City/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9EZXRhaWxzLmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/City/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2l0eS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/City/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9FZGl0LmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/City/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2l0eS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/City/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9JbmRleC5jc2h0bWw=
+[/Users/neuropunk/Desktop/Advanced_ajax/views/City/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2l0eS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/City/_CreateModalForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9fQ3JlYXRlTW9kYWxGb3JtLmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/City/_CreateModalForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ2l0eS9fQ3JlYXRlTW9kYWxGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Country/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9DcmVhdGUuY3NodG1s
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Country/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ291bnRyeS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Country/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9EZWxldGUuY3NodG1s
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Country/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ291bnRyeS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Country/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9EZXRhaWxzLmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Country/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ291bnRyeS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Country/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9FZGl0LmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Country/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ291bnRyeS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Country/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9JbmRleC5jc2h0bWw=
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Country/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ291bnRyeS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Country/_CreateModalForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9fQ3JlYXRlTW9kYWxGb3JtLmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Country/_CreateModalForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ291bnRyeS9fQ3JlYXRlTW9kYWxGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Customer/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvQ3JlYXRlLmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ3VzdG9tZXIvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Customer/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGVsZXRlLmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ3VzdG9tZXIvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Customer/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRGV0YWlscy5jc2h0bWw=
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ3VzdG9tZXIvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Customer/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvRWRpdC5jc2h0bWw=
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ3VzdG9tZXIvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Customer/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3VzdG9tZXIvSW5kZXguY3NodG1s
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvQ3VzdG9tZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Shared/_CreateModelDialog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DcmVhdGVNb2RlbERpYWxvZy5jc2h0bWw=
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Shared/_CreateModelDialog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL19DcmVhdGVNb2RlbERpYWxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/neuropunk/Desktop/Advanced_ajax/views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/neuropunk/Desktop/Advanced_ajax/views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/neuropunk/Desktop/Ajax_Crud/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+[/Users/neuropunk/Desktop/Advanced_ajax/views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g5fr2gxfe7

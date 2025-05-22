@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u0wr8pnihSo=",
+  "dgSpecHash": "6Rzf721rHgA=",
   "success": true,
-  "projectFilePath": "/Users/neuropunk/Desktop/Ajax_Crud/AdvancedAjax.csproj",
+  "projectFilePath": "/Users/neuropunk/Desktop/Advanced_ajax/AdvancedAjax.csproj",
   "expectedPackageFiles": [
     "/Users/neuropunk/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/Users/neuropunk/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

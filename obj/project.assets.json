@@ -3790,11 +3790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/neuropunk/Desktop/Ajax_Crud/AdvancedAjax.csproj",
+      "projectUniqueName": "/Users/neuropunk/Desktop/Advanced_ajax/AdvancedAjax.csproj",
       "projectName": "AdvancedAjax",
-      "projectPath": "/Users/neuropunk/Desktop/Ajax_Crud/AdvancedAjax.csproj",
+      "projectPath": "/Users/neuropunk/Desktop/Advanced_ajax/AdvancedAjax.csproj",
       "packagesPath": "/Users/neuropunk/.nuget/packages/",
-      "outputPath": "/Users/neuropunk/Desktop/Ajax_Crud/obj/",
+      "outputPath": "/Users/neuropunk/Desktop/Advanced_ajax/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/neuropunk/.nuget/NuGet/NuGet.Config"
