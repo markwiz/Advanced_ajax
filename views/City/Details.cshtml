@@ -1,0 +1,23 @@
+@model AdvancedAjax.Models.City
+
+@{
+    ViewData["Title"] = "City Details";
+}
+
+<h1>City Details</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Code)</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Code)</dd>
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Name)</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+        <dt class="col-sm-3">Country</dt>
+        <dd class="col-sm-9">@Model.Country?.Name</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div> 

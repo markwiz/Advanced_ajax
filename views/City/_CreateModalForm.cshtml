@@ -1,0 +1,29 @@
+@model AdvancedAjax.Models.City
+
+<form id="createCityForm" asp-action="Create" asp-controller="City" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="Code" class="control-label"></label>
+        <input asp-for="Code" class="form-control" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="CountryId" class="control-label">Country</label>
+        <select asp-for="CountryId" class="form-control" asp-items="ViewBag.Countries">
+            <option value="">-- Select Country --</option>
+        </select>
+        <span asp-validation-for="CountryId" class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form> 
