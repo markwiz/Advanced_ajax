@@ -6,7 +6,7 @@ namespace AdvancedAjax.Models
         public int Id { get; set; }
 
         [Required]
-        [MaxLength(3)]
+        [MaxLength(4)]
         public required string Code { get; set; }
 
         [Required]
