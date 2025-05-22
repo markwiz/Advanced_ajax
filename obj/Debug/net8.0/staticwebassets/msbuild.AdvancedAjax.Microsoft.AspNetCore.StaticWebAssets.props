@@ -240,22 +240,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\e9dfbb55-5c0a-4f4d-9986-253470d972de_ef01d5e446a25dd9a7d53ca31bda71b1.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\fe5e53e0-72d5-463f-8453-9e5ec0fd8739_Black and white mandala.png))">
-      <SourceType>Package</SourceType>
-      <SourceId>AdvancedAjax</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/AdvancedAjax</BasePath>
-      <RelativePath>Images/fe5e53e0-72d5-463f-8453-9e5ec0fd8739_Black and white mandala.png</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\fe5e53e0-72d5-463f-8453-9e5ec0fd8739_Black and white mandala.png))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Images\noimage.png))">
       <SourceType>Package</SourceType>
       <SourceId>AdvancedAjax</SourceId>
