@@ -1,0 +1,37 @@
+@* Views/Shared/CreateModelDialog.cshtml *@
+
+<div class="modal fade" id="createModelDialog" tabindex="-1" role="dialog" aria-labelledby="createModelDialogLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="createModelDialogLabel">Create New Country</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="createCountryForm" asp-controller="Country" asp-action="Create" data-ajax="true" data-ajax-method="POST" data-ajax-success="OnCountryCreated">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label for="Code" class="control-label">Code</label>
+                        <input name="Code" id="Code" class="form-control" />
+                        <span class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="Name" class="control-label">Name</label>
+                        <input name="Name" id="Name" class="form-control" />
+                        <span class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="CurrencyName" class="control-label">Currency Name</label>
+                        <input name="CurrencyName" id="CurrencyName" class="form-control" />
+                        <span class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div> 
