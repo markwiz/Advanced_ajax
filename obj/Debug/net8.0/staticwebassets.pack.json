@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/obj/Debug/net8.0/scopedcss/projectbundle/AdvancedAjax.bundle.scp.css",
+      "PackagePath": "staticwebassets/AdvancedAjax.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/0f2a935f-c467-4d8c-951f-cca7ddeac1f2_images.jpeg",
+      "PackagePath": "staticwebassets/Images/0f2a935f-c467-4d8c-951f-cca7ddeac1f2_images.jpeg"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/12f26009-65e0-4612-a15c-c320ba9e84fc_Screenshot 2025-03-13.png",
+      "PackagePath": "staticwebassets/Images/12f26009-65e0-4612-a15c-c320ba9e84fc_Screenshot 2025-03-13.png"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/2b8bb4d1-7e1f-4bbb-a933-c59a6e85202f_Amazonas.png",
+      "PackagePath": "staticwebassets/Images/2b8bb4d1-7e1f-4bbb-a933-c59a6e85202f_Amazonas.png"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/2c2fbd08-93a7-485c-971e-dbb87e8ccbb0_Screenshot 2025-03-13.png",
+      "PackagePath": "staticwebassets/Images/2c2fbd08-93a7-485c-971e-dbb87e8ccbb0_Screenshot 2025-03-13.png"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/510e62f4-d2f5-4b55-8433-1e02ecbe0919_images.jpeg",
+      "PackagePath": "staticwebassets/Images/510e62f4-d2f5-4b55-8433-1e02ecbe0919_images.jpeg"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/527fde02-7b1c-4fd7-808b-b369eefce3aa_Screenshot 2025-03-13 at 10.37.32.png",
+      "PackagePath": "staticwebassets/Images/527fde02-7b1c-4fd7-808b-b369eefce3aa_Screenshot 2025-03-13 at 10.37.32.png"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/5f886291-225e-47b2-9458-93dd9e3e346b_ef01d5e446a25dd9a7d53ca31bda71b1.png",
+      "PackagePath": "staticwebassets/Images/5f886291-225e-47b2-9458-93dd9e3e346b_ef01d5e446a25dd9a7d53ca31bda71b1.png"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/636bd63d-0d1e-4a17-9882-aab21e200690_Screenshot 2025-03-13 at 10.37.32.png",
+      "PackagePath": "staticwebassets/Images/636bd63d-0d1e-4a17-9882-aab21e200690_Screenshot 2025-03-13 at 10.37.32.png"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/687a8056-8196-4628-b807-06df50864447_images.jpeg",
+      "PackagePath": "staticwebassets/Images/687a8056-8196-4628-b807-06df50864447_images.jpeg"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/c221fdac-acf1-465b-9a00-dd9bfbe8b602_images.jpeg",
+      "PackagePath": "staticwebassets/Images/c221fdac-acf1-465b-9a00-dd9bfbe8b602_images.jpeg"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/d15c7fc0-ca53-4f90-a0e3-d26fc0a74aa0_images.jpeg",
+      "PackagePath": "staticwebassets/Images/d15c7fc0-ca53-4f90-a0e3-d26fc0a74aa0_images.jpeg"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/e9dfbb55-5c0a-4f4d-9986-253470d972de_ef01d5e446a25dd9a7d53ca31bda71b1.png",
+      "PackagePath": "staticwebassets/Images/e9dfbb55-5c0a-4f4d-9986-253470d972de_ef01d5e446a25dd9a7d53ca31bda71b1.png"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/fe5e53e0-72d5-463f-8453-9e5ec0fd8739_Black and white mandala.png",
+      "PackagePath": "staticwebassets/Images/fe5e53e0-72d5-463f-8453-9e5ec0fd8739_Black and white mandala.png"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/Images/noimage.png",
+      "PackagePath": "staticwebassets/Images/noimage.png"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/neuropunk/Desktop/Ajax_Crud/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AdvancedAjax.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.AdvancedAjax.props",
+      "PackagePath": "build\\AdvancedAjax.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AdvancedAjax.props",
+      "PackagePath": "buildMultiTargeting\\AdvancedAjax.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AdvancedAjax.props",
+      "PackagePath": "buildTransitive\\AdvancedAjax.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
