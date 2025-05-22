@@ -34,7 +34,7 @@ namespace AdvancedAjax.Models
         public int CityId { get; set; }
         public virtual City? City { get; set; }
 
-        [MaxLength(500)]
+        [MaxLength(555)]
         public string PhotoUrl { get; set; } = string.Empty;
 
         [Display(Name = "Profile Photo")]
